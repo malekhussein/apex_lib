@@ -1,0 +1,29 @@
+{
+  "apexlib": {
+    "Cargo.lock": null,
+    "Cargo.toml": null,
+    "json": {
+      "about.json": null
+    },
+    "src": {
+      "core": {
+        "labels.rs": null,
+        "mod.rs": null
+      },
+      "features": {
+        "mod.rs": null,
+        "openw.rs": null
+      },
+      "lib.rs": null,
+      "structs": {
+        "apex.rs": null,
+        "mod.rs": null
+      },
+      "tests": {
+        "mod.rs": null,
+        "structs.rs": null
+      }
+    },
+    "target": null
+  }
+}
