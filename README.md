@@ -1,38 +1,12 @@
 # 🚀 Apex Library
 
- /\
-/  \    Apex Library
+   Apex Library
 
-/----\ Fast, modular, and fun Rust library
-/ \
+Fast, modular, and fun Rust library
+
 
 
 A Rust library to simplify tasks and experiments with modular design. Supports features like **core utilities**, **window handling**, and **structured data**.
-
----
-
-## 📂 Project Structure
-
-apex_lib
-├── Cargo.toml
-├── build.rs
-├── check_lib.py
-├── src
-│ ├── core
-│ │ ├── labels.rs
-│ │ └── mod.rs
-│ ├── features
-│ │ ├── mod.rs
-│ │ └── openw.rs
-│ ├── lib.rs
-│ ├── structs
-│ │ ├── apex.rs
-│ │ └── mod.rs
-│ └── tests
-│ ├── mod.rs
-│ └── structs.rs
-└── target
-
 
 ---
 
@@ -55,16 +29,15 @@ apex_lib
 apex = { path = "../apex_lib" }
 ```
 # 📝 Usage
-
-use apex::core::*;
-use apex::features::*;
-
+```rust
+use apex_lib::*;
+```
 // Labels example
-labels(&["one", "two", "three"]);
+`labels!("one", "two", "three");`
 
-// Open a 400x400 window
+Open a 400x400 window
 open_window(400, 400);
-
+`oapex_window();`
 # ⚡ Notes
 
     Fully compatible with Linux, macOS, and Windows
@@ -73,3 +46,4 @@ open_window(400, 400);
 
     Modular design for easy expansion
 
+    This is a preliminary version and its files may change at any time.
