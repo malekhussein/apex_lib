@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "apex_lib"
+name = "apexlib"
 version = "0.1.0"
 dependencies = [
  "minifb",
