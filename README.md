@@ -36,11 +36,11 @@ A Rust library to simplify tasks and experiments with modular design. Supports f
 
 ```toml
 [dependencies]
-apex = { path = "../apex_lib" }
+apex = { path = "../apexlib" }
 ```
 # 📝 Usage
 ```rust
-use apex_lib::*;
+use apexlib::*;
 ```
 // Labels example
 `labels!("one", "two", "three");`
