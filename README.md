@@ -4,7 +4,12 @@
 
 Fast, modular, and fun Rust library
 
-
+                         _ _ _     
+  __ _ _ __   _____  __ | (_) |__  
+ / _` | '_ \ / _ \ \/ / | | | '_ \ 
+| (_| | |_) |  __/>  <  | | | |_) |
+ \__,_| .__/ \___/_/\_\ |_|_|_.__/ 
+      |_| 
 
 A Rust library to simplify tasks and experiments with modular design. Supports features like **core utilities**, **window handling**, and **structured data**.
 
