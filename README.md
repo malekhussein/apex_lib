@@ -25,7 +25,7 @@ A Rust library to simplify tasks and experiments with modular design. Supports f
 - `core`: Core utilities (labels, string operations, etc.)
 - `features`: Extra functionalities (window creation, etc.)
 - `structs`: Structured data modules
-- `tests`: Unit tests for your modules
+- `tests`: Tests of some units and functions
 - `build.rs` & `check_lib.py`: Automatic library check for any project using it
 
 ---
