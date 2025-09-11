@@ -48,7 +48,6 @@ use apexlib::*;
 
 // open window 
 Open a 400x400 window
-open_window(400, 400);
 `oapex_window();`
 
 // **And many ready-made functions and commands**
